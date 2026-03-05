@@ -1,0 +1,21 @@
+{
+    "name": "proteome-explorer",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@sgratzl/chartjs-chart-boxplot": "^4.4.3",
+        "chart.js": "^4.4.7",
+        "chartjs-chart-matrix": "^2.0.1",
+        "papaparse": "^5.4.1",
+        "plotly.js-dist-min": "^3.4.0"
+    },
+    "devDependencies": {
+        "vite": "^6.2.0"
+    }
+}
