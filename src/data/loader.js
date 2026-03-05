@@ -1,6 +1,6 @@
 import Papa from 'papaparse';
 
-const BASE = 'https://raw.githubusercontent.com/MeijerW/ProteomeUI/main/Datafiles/';
+const BASE = '/Datafiles/';
 
 /* ── helpers ─────────────────────────────────────────────────────── */
 
